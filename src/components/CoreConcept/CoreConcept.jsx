@@ -1,4 +1,4 @@
-import componentsImg from '../assets/components.png'
+import componentsImg from '../../assets/components.png'
 
 export default function CoreConcept({title, image, description}){
     return(
